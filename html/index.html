@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BOA Death Screen</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="deathScreen" class="death-screen hidden">
+        <div class="background-overlay"></div>
+        
+        <div class="content">
+            <!-- Top Text -->
+            <div class="top-text">
+                <div class="very-soon" id="coming-soon">TEXT_NOT_FOUND: ui_coming_soon</div>
+                <div class="main-title" id="bleeding-out">TEXT_NOT_FOUND: ui_bleeding_out</div>
+            </div>
+            
+            <!-- Skull Icon -->
+            <div class="skull-icon">
+                <div class="skull">☠</div>
+            </div>
+            
+            <!-- Timer -->
+            <div class="timer">
+                <div id="countdown">05:00</div>
+            </div>
+            
+            <!-- Death Info -->
+            <div class="death-info">
+                <div id="killer-name" class="killer-name">Bilinmeyen</div>
+                <div class="killed-by" id="killed-by-text">TARAFINDAN ÖLDÜRÜLDÜ</div>
+            </div>
+            
+            <!-- Buttons -->
+            <div class="buttons">
+                <button id="acceptDeath" class="btn btn-death">
+                    <span class="btn-icon">☠</span>
+                    <span class="btn-text" id="ambulance-wait">TEXT_NOT_FOUND: ui_ambulance_wait</span>
+                </button>
+                <button id="callEmergency" class="btn btn-emergency">
+                    <span class="btn-icon">📞</span>
+                    <span class="btn-text" id="call-emergency">TEXT_NOT_FOUND: ui_call_emergency</span>
+                </button>
+            </div>
+            
+            <!-- Cooldown Message -->
+            <div id="cooldownMessage" class="cooldown-message hidden"></div>
+        </div>
+    </div>
+    
+    <script src="script.js?v=5"></script>
+</body>
+</html>
