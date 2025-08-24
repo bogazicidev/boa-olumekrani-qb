@@ -40,7 +40,7 @@ FiveM sunucuları için geliştirilmiş gelişmiş ölüm ekranı sistemi. Bu sc
 
 ### 1. Dosya Yapısı
 ```
-BOA-Olum/
+boa-olumekrani-qb/
 ├── client/
 │   └── main.lua
 ├── server/
@@ -179,4 +179,5 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosy
 ---
 
 **Not**: Bu script FiveM sunucuları için geliştirilmiştir ve QBX Framework ile uyumludur.
+
 
