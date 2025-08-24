@@ -143,9 +143,6 @@ Script aşağıdaki weapon hash'lerini destekler:
    - HTML dosyalarının doğru yüklendiğini kontrol edin
    - NUI focus ayarlarını kontrol edin
 
-### Debug Modu
-Script yayına hazır halde gelir. Debug mesajları kaldırılmıştır.
-
 ## 📝 Changelog
 
 ### v1.0.0
@@ -176,9 +173,10 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosy
 
 ## 📞 Destek
 
-- **Discord**: [BOA Development Discord]
-- **GitHub Issues**: [GitHub Issues Sayfası]
+- **Discord**: https://discord.gg/WqfsGWbEwu
+- **İnstagram**: https://www.instagram.com/bogazicirp
 
 ---
 
 **Not**: Bu script FiveM sunucuları için geliştirilmiştir ve QBX Framework ile uyumludur.
+
