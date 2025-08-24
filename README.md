@@ -9,6 +9,7 @@ FiveM sunucuları için geliştirilmiş gelişmiş ölüm ekranı sistemi. Bu sc
 ### ✅ Temel Özellikler
 - **Otomatik Ölüm Tespiti** - Her ölüm türü için otomatik tespit
 - **Güvenilir Deathscreen** - Her koşulda çalışan ölüm ekranı
+- **Çoklu Dil Desteği** - Bulunan Diller: "tr", "en", "pt-br", "ru", "es", "fr", "de", "it", "pl", "ar"
 - **Erken Revival Koruması** - 10 saniye boyunca erken canlanmayı engeller
 - **Manuel Revival Sistemi** - Buton ile manuel canlanma
 - **Acil Durum Çağrısı** - Ambulans oyuncularına bildirim sistemi
@@ -181,6 +182,7 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosy
 ---
 
 **Not**: Bu script FiveM sunucuları için geliştirilmiştir ve QBX Framework ile uyumludur.
+
 
 
 
