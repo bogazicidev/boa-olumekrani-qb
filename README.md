@@ -1,5 +1,7 @@
 # BOA-DeathScreen
 
+![Image](https://github.com/user-attachments/assets/fe660d17-1334-400a-aa3b-64f9fc67f81e)
+
 FiveM sunucuları için geliştirilmiş gelişmiş ölüm ekranı sistemi. Bu script, oyuncuların ölüm durumlarını yönetmek ve gerçekçi bir ölüm deneyimi sunmak için tasarlanmıştır.
 
 ## 🌟 Özellikler
@@ -179,5 +181,6 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosy
 ---
 
 **Not**: Bu script FiveM sunucuları için geliştirilmiştir ve QBX Framework ile uyumludur.
+
 
 
